@@ -1,0 +1,11 @@
+训练集：
+
+DUTS-TR:	10553张 
+
+测试集：
+DUTS-TE:	5019张
+DUT-0:		5168张
+ECSSD:		2000张
+HKU-IS:		4447张
+PASCAL-S:	850张
+SOD:		300张

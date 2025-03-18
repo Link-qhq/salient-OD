@@ -1,0 +1,103 @@
+PiCANet
+ECSSD
+mae: 0.03454      sm: 0.91576     wfm: 0.90827     avgE: 0.94719     maxE: 0.95303     adpE: 0.94262     avgF: 0.92214     maxF: 0.92894     adpF: 0.92068
+BASNet
+ECSSD
+mae: 0.03702      sm: 0.91621     wfm: 0.90381     avgE: 0.94320     maxE: 0.95101     adpE: 0.92096     avgF: 0.91679     maxF: 0.93119     adpF: 0.87956
+CPD
+ECSSD
+mae: 0.03713      sm: 0.91811     wfm: 0.89802     avgE: 0.94186     maxE: 0.95107     adpE: 0.94938     avgF: 0.91271     maxF: 0.92612     adpF: 0.91715
+F3Net
+ECSSD
+mae: 0.03325      sm: 0.92415     wfm: 0.91225     avgE: 0.94774     maxE: 0.95473     adpE: 0.94615     avgF: 0.92458     maxF: 0.93529     adpF: 0.92464
+MINet
+ECSSD
+mae: 0.03345      sm: 0.92489     wfm: 0.91074     avgE: 0.94980     maxE: 0.95689     adpE: 0.95317     avgF: 0.92255     maxF: 0.93793     adpF: 0.92442
+BPFINet
+ECSSD
+mae: 0.03350      sm: 0.92597     wfm: 0.91519     avgE: 0.95114     maxE: 0.95762     adpE: 0.95401     avgF: 0.92675     maxF: 0.93855     adpF: 0.92832
+EDNet
+ECSSD
+mae: 0.03198      sm: 0.92674     wfm: 0.91771     avgE: 0.95076     maxE: 0.95751     adpE: 0.95539     avgF: 0.93041     maxF: 0.94095     adpF: 0.93247
+ICONet
+ECSSD
+mae: 0.03175      sm: 0.92896     wfm: 0.91817     avgE: 0.95408     maxE: 0.96034     adpE: 0.95426     avgF: 0.92761     maxF: 0.94330     adpF: 0.92777
+PiCANet
+DUTS-TE
+mae: 0.04037      sm: 0.86263     wfm: 0.81198     avgE: 0.90573     maxE: 0.91524     adpE: 0.91374     avgF: 0.83370     maxF: 0.84032     adpF: 0.83508
+BASNet
+DUTS-TE
+mae: 0.04756      sm: 0.86574     wfm: 0.80304     avgE: 0.89550     maxE: 0.90288     adpE: 0.88419     avgF: 0.82258     maxF: 0.83846     adpF: 0.79128
+PiCANet
+DUTS-TE
+mae: 0.04037      sm: 0.86263     wfm: 0.81198     avgE: 0.90573     maxE: 0.91524     adpE: 0.91374     avgF: 0.83370     maxF: 0.84032     adpF: 0.83508
+BASNet
+DUTS-TE
+mae: 0.04756      sm: 0.86574     wfm: 0.80304     avgE: 0.89550     maxE: 0.90288     adpE: 0.88419     avgF: 0.82258     maxF: 0.83846     adpF: 0.79128
+CPD
+DUTS-TE
+mae: 0.04338      sm: 0.86897     wfm: 0.79512     avgE: 0.89792     maxE: 0.91402     adpE: 0.90363     avgF: 0.82076     maxF: 0.84048     adpF: 0.80493
+F3Net
+DUTS-TE
+mae: 0.03540      sm: 0.88835     wfm: 0.83482     avgE: 0.91998     maxE: 0.92707     adpE: 0.91827     avgF: 0.85162     maxF: 0.87239     adpF: 0.83963
+MINet
+DUTS-TE
+mae: 0.03721      sm: 0.88401     wfm: 0.82540     avgE: 0.91704     maxE: 0.92717     adpE: 0.91742     avgF: 0.84423     maxF: 0.86475     adpF: 0.82810
+BPFINet
+DUTS-TE
+mae: 0.03760      sm: 0.88574     wfm: 0.83138     avgE: 0.91680     maxE: 0.92376     adpE: 0.92043     avgF: 0.84912     maxF: 0.86560     adpF: 0.83822
+EDNet
+DUTS-TE
+mae: 0.03514      sm: 0.89243     wfm: 0.84507     avgE: 0.92501     maxE: 0.93377     adpE: 0.92804     avgF: 0.86342     maxF: 0.87839     adpF: 0.85144
+ICONet
+DUTS-TE
+mae: 0.03730      sm: 0.88863     wfm: 0.83658     avgE: 0.92364     maxE: 0.93155     adpE: 0.91910     avgF: 0.85325     maxF: 0.87675     adpF: 0.83817
+PiCANet
+HKU-IS
+mae: 0.03084      sm: 0.90456     wfm: 0.89035     avgE: 0.94259     maxE: 0.95073     adpE: 0.95141     avgF: 0.90621     maxF: 0.91312     adpF: 0.91122
+BASNet
+HKU-IS
+mae: 0.03222      sm: 0.90892     wfm: 0.88909     avgE: 0.94319     maxE: 0.95146     adpE: 0.94582     avgF: 0.90245     maxF: 0.91908     adpF: 0.89546
+CPD
+HKU-IS
+mae: 0.03420      sm: 0.90547     wfm: 0.87467     avgE: 0.93839     maxE: 0.95034     adpE: 0.95033     avgF: 0.89215     maxF: 0.91078     adpF: 0.89107
+F3Net
+HKU-IS
+mae: 0.02804      sm: 0.91723     wfm: 0.90042     avgE: 0.95167     maxE: 0.95762     adpE: 0.95807     avgF: 0.90953     maxF: 0.92542     adpF: 0.90977
+MINet
+HKU-IS
+mae: 0.02855      sm: 0.91881     wfm: 0.89732     avgE: 0.95153     maxE: 0.95981     adpE: 0.95998     avgF: 0.90885     maxF: 0.92562     adpF: 0.90855
+BPFINet
+HKU-IS
+mae: 0.02846      sm: 0.91825     wfm: 0.89952     avgE: 0.95065     maxE: 0.95728     adpE: 0.95897     avgF: 0.91053     maxF: 0.92502     adpF: 0.91105
+EDNet
+HKU-IS
+mae: 0.02644      sm: 0.92404     wfm: 0.90771     avgE: 0.95484     maxE: 0.96239     adpE: 0.96231     avgF: 0.91961     maxF: 0.93247     adpF: 0.91944
+ICONet
+HKU-IS
+mae: 0.02892      sm: 0.92002     wfm: 0.90225     avgE: 0.95329     maxE: 0.95978     adpE: 0.95850     avgF: 0.91181     maxF: 0.93048     adpF: 0.91039
+PiCANet
+PASCAL-S
+mae: 0.06423      sm: 0.84639     wfm: 0.81109     avgE: 0.89353     maxE: 0.89953     adpE: 0.88927     avgF: 0.83156     maxF: 0.83840     adpF: 0.83259
+BASNet
+PASCAL-S
+mae: 0.07584      sm: 0.83803     wfm: 0.79269     avgE: 0.87857     maxE: 0.88569     adpE: 0.85268     avgF: 0.81768     maxF: 0.83499     adpF: 0.77102
+CPD
+PASCAL-S
+mae: 0.07065      sm: 0.84848     wfm: 0.79423     avgE: 0.88217     maxE: 0.89104     adpE: 0.88728     avgF: 0.81939     maxF: 0.83317     adpF: 0.82013
+F3Net
+PASCAL-S
+mae: 0.06145      sm: 0.86098     wfm: 0.81598     avgE: 0.89774     maxE: 0.90352     adpE: 0.89474     avgF: 0.83520     maxF: 0.84822     adpF: 0.83486
+MINet
+PASCAL-S
+mae: 0.06359      sm: 0.85632     wfm: 0.80909     avgE: 0.89567     maxE: 0.90291     adpE: 0.89808     avgF: 0.83003     maxF: 0.84625     adpF: 0.82935
+BPFINet
+PASCAL-S
+mae: 0.06312      sm: 0.85794     wfm: 0.81404     avgE: 0.89732     maxE: 0.90319     adpE: 0.90091     avgF: 0.83399     maxF: 0.84986     adpF: 0.83333
+EDNet
+PASCAL-S
+mae: 0.06173      sm: 0.86459     wfm: 0.82668     avgE: 0.90153     maxE: 0.90770     adpE: 0.90419     avgF: 0.84887     maxF: 0.86002     adpF: 0.84733
+ICONet
+PASCAL-S
+mae: 0.06444      sm: 0.86108     wfm: 0.81790     avgE: 0.89902     maxE: 0.90790     adpE: 0.89307     avgF: 0.83816     maxF: 0.86024     adpF: 0.83255
+

@@ -1,0 +1,5 @@
+shannels:
+  - http://mirrors.aliyun.com/anaconda/pkgs/msys2
+  - http://mirrors.aliyun.com/anaconda/pkgs/r
+  - http://mirrors.aliyun.com/anaconda/pkgs/main
+show_channel_urls: true
